@@ -15,7 +15,7 @@
             <!-- Search Bar (Desktop) -->
             <div class="hidden md:flex flex-1 max-w-2xl mx-8">
                 <div class="relative w-full">
-                    <input type="text" placeholder="Search products..."
+                    <input type="text" placeholder="Search products or Shop..."
                         class="w-full px-4 py-2 pr-10 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none">
                     <button
                         class="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-gray-600">

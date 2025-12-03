@@ -15,6 +15,8 @@ session_start();
     <!-- Header Component -->
     <?php require '../components/headerUI.php'; ?>
 
+    <!-- products card component -->
+    <?php require '../components/productsCard.php'; ?>
 
 </body>
 </html>
